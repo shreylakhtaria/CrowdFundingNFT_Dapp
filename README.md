@@ -1,4 +1,4 @@
-# Hedera Example MetaMask Counter DApp
+# CrowdFundingNFT_Dapp
 
 This project is a crowdfunding decentralized application (dApp) built on the Hedera network using Solidity, React JS, MetaMask, and Ethers JS.
 
@@ -20,4 +20,7 @@ This project is a crowdfunding decentralized application (dApp) built on the Hed
 1. Clone the repository:
 ```sh
 git clone https://github.com/shreylakhtaria/CrowdFundingNFT_Dapp
-![de42c872-906f-45af-a2f2-bee8b39b52a1](https://github.com/user-attachments/assets/a575bb77-ede6-4a08-9372-cb3dfe330b91)
+```
+
+# Application Architecture at a High Level
+![image](https://user-images.githubusercontent.com/72571340/236001445-55ef5ee1-6370-463c-bb18-e78f6ff66d3a.png)
